@@ -1,5 +1,5 @@
 ---
-title: Ecological Interactions<br> Modeling Exercise on Prey Clumping & Density Dependent Survival
+title: Ecological Interactions Modeling Exercise on Prey Clumping & Density Dependent Survival
 author: Created by Sabrina E. Russo (Biological Sciences) \& Glenn Ledder (Math Dept), University of Nebraska - Lincoln
 format: 
   live-html:
