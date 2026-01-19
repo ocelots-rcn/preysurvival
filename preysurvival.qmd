@@ -42,8 +42,8 @@ source("data/Seeds_source4class_2024.R")
 #| label: r-setup
 #| echo: false
 #| message: false
-source("data/Seeds_source4class_2024.R")
 library(pracma)
+source("data/Seeds_source4class_2024.R")
 ```
 
 ## Learning Goals 
