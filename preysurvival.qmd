@@ -21,6 +21,8 @@ resources:
 webr:
   packages:
     - pracma
+  resources:
+    - data/Seeds_source4class_2024.R
 engine: knitr
 description: "In this modeling exercise, you will run several simulations to analyze the effect of the crowding of prey and density dependent survival on the proportion of a population of individuals surviving from one time point to the next. You will turn in your answers to the questions in this document."
 ---
