@@ -5,7 +5,7 @@
 Created by Sabrina E. Russo (Biological Sciences) & Glenn Ledder (Math
 Dept), University of Nebraska - Lincoln
 
-🚀 [Launch Module](https://mdlama.github.io/Data_Manipulation/)
+🚀 [Launch Module](https://ocelots-rcn.github.io/preysurvival/)
 
 ## Description
 

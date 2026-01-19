@@ -7,7 +7,7 @@ engine: knitr
 
 Created by Sabrina E. Russo (Biological Sciences) \& Glenn Ledder (Math Dept), University of Nebraska - Lincoln
 
-`r emoji::emoji("rocket")` [Launch Module](https://mdlama.github.io/Data_Manipulation/) 
+`r emoji::emoji("rocket")` [Launch Module](https://ocelots-rcn.github.io/preysurvival/) 
 
 ## Description
 
